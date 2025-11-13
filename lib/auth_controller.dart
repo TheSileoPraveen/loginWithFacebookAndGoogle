@@ -51,7 +51,7 @@ class AuthController extends GetxController {
         );
         await FirebaseAuth.instance.signInWithCredential(credential);
         Get.snackbar(
-          "Login Successful",
+          "Login Successful ",
           "You have logged in with Facebook",
           backgroundColor: Colors.green,
           colorText: Colors.white,
