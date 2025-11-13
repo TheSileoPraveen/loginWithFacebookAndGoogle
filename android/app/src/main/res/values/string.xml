@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">facebook_login</string>
+
+    <!-- Facebook SDK credentials -->
+    <string name="facebook_app_id">1744075786277231</string>
+    <string name="facebook_client_token">537bdceca98a368ee35dd359e82e757f</string>
+
+    <!-- Required for Facebook Login redirect -->
+    <string name="fb_login_protocol_scheme">fb1744075786277231</string>
+</resources>
