@@ -45,5 +45,7 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>GIDClientID</key>
+    <string>YOUR_GOOGLE_CLIENT_ID.apps.googleusercontent.com</string>
 </dict>
 </plist>
